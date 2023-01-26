@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47c78502-2f81-4b28-9393-5692c2327d84" name="Changes" comment="added soa lab2">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/lab_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Modal/Modal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Modal/Modal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/gray_plate/GrayPlate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/gray_plate/GrayPlate.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/search_workers/SeacrhWorkers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/search_workers/SearchWorkers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/worker/Worker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/worker/Worker.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/worker_actions/WorkerActions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/worker_actions/WorkerActions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/ICoordinates.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/ILocation.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/ILocationWithId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/IOrganization.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/IOrganizationWithId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/IPerson.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/IPersonWithId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/IWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/models/IWorkerWithId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/main_page/MainPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/pages/main_page/MainPage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/react-app-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/reportWebVitals.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/setupTests.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/service1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/application/RestApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/configuration/CorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/configuration/HibernateSessionFactoryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/controllers/WorkerResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/AbstractEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/Organization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/AbstractDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/CoordinatesDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/ErrorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/LocationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/LocationWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/NewWorkerReqParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/OrganizationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/OrganizationWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/PersonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/PersonWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/UPDWorkerParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/ValueDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/WorkerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/dto/WorkerWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/enums/EyeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/enums/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/enums/SortingType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/enums/converters/EyeColorConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/enums/converters/PositionConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/enums/converters/SortingTypeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/filter/WorkerFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/entities/mappers/WorkerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/exceptions/BadRequestException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/exceptions/NoSuchWorkerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/exceptions/handlers/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/repositories/WorkerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/repositories/impl/WorkerRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/resources/WorkerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/resources/impl/WorkerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/util/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/java/com/markov/util/ValidatorResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service1/src/main/webapp/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/HRServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/config/JavaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/controller/HRController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/AbstractDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/CoordinatesDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/ErrorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/LocationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/LocationWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/OrganizationDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/OrganizationWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/PersonDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/PersonWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/WorkerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/WorkerWithIdDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/enums/EyeColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/entity/enums/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/exception/DataNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/exception/RestResponseEntityExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/java/com/markov/service2/service/HRService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service2/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/soa.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KqBPUNFekzjazWLBOTHnjZlbDA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47c78502-2f81-4b28-9393-5692c2327d84" name="Changes" comment="" />
+      <created>1674692211021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674692211021</updated>
+      <workItem from="1674692212390" duration="384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added soa lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="added soa lab2" />
+  </component>
+</project>

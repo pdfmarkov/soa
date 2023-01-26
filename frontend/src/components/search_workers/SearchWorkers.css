@@ -1,0 +1,22 @@
+.search-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.search-cell {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.workers-table {
+    width: 100%;
+}
+
+.search-cell-page {
+    width: 100%;
+    align-items: center;
+}
